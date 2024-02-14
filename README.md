@@ -18,6 +18,11 @@
 -	When Initial  = = Final the then if  %increase = n/x then %decrease = n/x+1.
 ## Successive Percentage Change
 -	Definition : 1st day incre or decre with that value 2nd day incre or decre is called successive change.
--	Overall % (Increase or Decrease) = a + b + (a*b)/100. Where a and b are the 1st and 2nd day values. Also +a or +b in case of increase and -a or -b in case of decrease.   
+-	Overall % (Increase or Decrease) = a + b + (a*b)/100. Where a and b are the 1st and 2nd day values. Also +a or +b in case of increase and -a or -b in case of decrease.
+- if there is three entities like a , b, c or and so on sole a,b and using the value solve result(a,b) and c
 
-
+# Area , Volume and Mensuration
+- Basic shapes and their respective areas, perimeter and volumes.
+![Shapes and Formulas](shapes_1.jpg)
+![](shapes_2.jpg)
+![](shapes_3.jpg)
