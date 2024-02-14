@@ -26,3 +26,4 @@
 ![Shapes and Formulas](shapes_1.jpg)
 ![](shapes_2.jpg)
 ![](shapes_3.jpg)
+- In Rhombus d1 and d2 are size of two diagonals.
