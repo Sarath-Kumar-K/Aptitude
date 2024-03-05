@@ -27,3 +27,19 @@
 ![](shapes_2.jpg)
 ![](shapes_3.jpg)
 - In Rhombus d1 and d2 are size of two diagonals.
+
+# Profit and Loss
+- profit  p = (sp -cp)
+- loss L = (cp-sp) 
+- P% = (p/cp) * 100
+- L% = (L/cp) * 100
+- sp = overall(P or L) % * cp // overall means profit or loss if 10% profit means 100+10=110% overall and incase of  loss 100-10=90% will be the overall percentage. The formula can also be written as sp = (100+P%) * cp, sp = (100-L%) * cp.
+- If sp1 = sp2 and P%=L%=x then loss in the whole transaction is  L = - (x^2) / 100. Here minus represents loss.
+- If cp1 = cp2 and P%=L% then No profit and No Loss in the whole transaction.
+- When cp of x items = sp of y items then P% or L% = ((x/y)-1) * 100
+- Initial no of items = P or L -> equ 1 and how many items as x = cp. Cross multiply two equation to get x.
+# Dicount and Profit & Loss
+- change in Dicount amount = Change in Profit Or loss amount
+- For Successive or continous  discounts like 10%,20%,30% and 40% is equal to the single discount of 56.8% use the formula a+b+((a*b)/100) -a or -b if it is discount +a or +b if it is increse in price . check out successine percentage formulas.
+# Ratio
+- Let the amount x is divided between a,b,c,.. so on memebers then  a = (a/a+b+c+...) * 100. Similarly for all the other individual findings.
